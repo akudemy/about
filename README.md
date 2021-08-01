@@ -23,7 +23,7 @@ It depends on a few factors:
 We usually start as soon as you decide to do it. Determining the start of your learning path can be done in the middle of our first conversation, so you have something to work on right away.
 
 Let's look at a few examples, e.g. if you are trying to get into TopTal, and:
-- have been a professional full-stack node developer for 5 years, and can practice 3 hours a day: it should take you 2-5 days
+- have been a professional full-stack node developer for 5 years, occasionally do programming challenges, and can practice 3 hours a day: it should take you 2-5 days
 - have just finished your Bachelor's degree in Computer Science, and can practice 4 hours a day: it should take you 1-5 weeks
 - have never programmed before, but you like watching Numberphile and can practice 2 hours a day: it should take you 4-12 months
 
