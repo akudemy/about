@@ -10,17 +10,22 @@ After you express interest and we gather your goals, skill level, and availabili
 
 This is usually done by tailoring for you a series of timed challenges that you can practice on as often as you can manage, and identifying the next step of the learning path based on the results. You'll be in communication with me on slack the entire time, and we can deal with any questions or worries as they come.
 
-You don't pay anything for this, it's completely free: when you join a company like TopTal, I can make use of the referral bonus to keep Akudemy going. If the referral bonus can't be leveraged, I will ask you to make a donation, but only after you have been hired, so there is no risk involved for you.
+You don't pay anything for this, it's completely free: when you join a company like TopTal, I can make use of the referral bonus to keep Akudemy going. If the referral bonus can't be leveraged, I will ask you to make a donation, but only after you have been hired, removing any risk for you.
 
 ## How long does it take?
 
 It depends on a few factors:
 
 1. your goals: getting into TopTal will be harder than passing a generic tech interview. It will absolutely be worth it, and I recommend it, but obviously your goals affect the learning path.
-1. your current skill level: some students are experienced programmers who might simply need reassurance that they would pass the TopTal exams if they took them, in which case it might only take a couple hours, in which I might not find any weaknesses. Other students might want to join TopTal but not have learned a programming language yet. This is fine, they won't have high priority in my list, but I will take care of them by directing them to relevant resources, communities, and by answering their questions. Slowly I'll be able to do more frequent sessions with them until they're ready. This can take from a couple months to a couple years. Most students will fall somewhere in between: if you have more than a couple years of professional experience in freelancing, and have done occasional competitive programming, it will take you from 1-5 weeks.
-1. your availability: the above assumes you can allow for roughly 1 hour of exercise every day, which might not be the case for everyone. I highly recommend spending 6+ hours a day and getting results quickly, but I understand you might not be ready to leave your current job yet, or have other commitments, or might simply not have the energy. It's all fine, we can manage accordingly.
+1. your current skill level: all skill levels are welcome, though of course your current programming ability is an important factor in how long it will take until you are ready to interview for the position of your choice. We will discuss a suitable timeline and personalised content to bridge the gap between your current level of ability and your intended goal.
+1. your availability: the more time you are willing to dedicate to improving yourself, the better. However, everyone's personal circumstances are different, and we can devise a learning path that takes yours into account.
 
 We usually start as soon as you decide to do it. Determining the start of your learning path can be done in the middle of our first conversation, so you have something to work on right away.
+
+Let's look at a few examples, e.g. if you are trying to get into TopTal, and:
+- have been a professional full-stack node developer for 5 years, and can practice 3 hours a day: it should take you 2-5 days
+- have just finished your Bachelor's degree in Computer Science, and can practice 4 hours a day: it should take you 1-5 weeks
+- have never programmed before, but you like watching Numberphile and can practice 2 hours a day: it should take you 4-12 months
 
 ## What aspects can you help with?
 
@@ -39,9 +44,11 @@ It might take more time for me to handle those concerns if I haven't seen them b
 I'm here help you achieve your goal, with the resources I have available.
 
 ## What qualifications do I need?
-None. Contact me if you're serious about achieveing your goal, it doesn't matter if you don't have enough experience.
+None. Contact me, it doesn't matter if you don't have enough experience.
 
 It will simply take longer if you're not a professional, haven't gone to university, or haven't got past "Hello, World!", but we'll have a path for you. See the "how long does it take" section, above.
+
+I will however refuse to help you if I think your goal is to waste my time or cause distress. You are not automatically entitled to join this community.
 
 ## How do I get started?
 
@@ -91,15 +98,11 @@ My name is Matei Copot, and while the Akudemy community helps each other out, I'
 
 I'm currently part of the TopTal network, you can find my resume here: https://www.toptal.com/resume/matei-copot. I'm not looking for new clients.
 
-I've worked over a dozen of clients as a contractor, and have had to go through interviews for almost all of them, with a success rate approaching 100%. On top of that, competitive programming is a hobby: I love participating in competitions like AoC, solving interview questions for fun, submitting to game jams, and generally solving seemingly pointless problems.
+I've worked over a dozen of clients as a contractor, and have had to go through interviews for almost all of them, with a success rate approaching 100%. On top of that, competitive programming is a hobby: I love participating in competitions like AoC, solving interview questions for fun, submitting to game jams, and generally solving programming problems.
 
 You may know me from [my work on codepen](https://codepen.io/towc/), which includes my (unfinished) popular guide for jumpstarting JavaScript knowledge, [example.js](https://codepen.io/towc/post/examplejs-1-1). You may also know me as a js13kgames.com competitor, where in 2015 [flappy box](https://js13kgames.com/entries/flappy-box) was the 2nd most popular game, and it was in under 2kb.
 
-In 2015 I also went through 2 Cambridge interviews at Queens' College, for Computer Science, and took the CSATs. My sights were set outside of academia, but even with very limited preparation, I was [pooled](https://www.undergraduate.study.cam.ac.uk/files/publications/guide_to_the_winter_pool.pdf).
-
-I gave talks at the JSOxford meetup, and started JSBratislava, mentoring several developers while being a key member of the now defunct Progressbar Hackerspace.
-
-Outside my highschool diploma, my only paper qualification, when it comes to education, is a security certification called [CEH](https://cert.eccouncil.org/certified-ethical-hacker.html), acquired at the age of 16. I don't have a strong belief in the value of paper qualifications when it comes to a software engineering career.
+I gave talks at JSOxford meetups, and started JSBratislava, mentoring several developers while being a key member of Progressbar Hackerspace.
 
 If you have any questions about whether I can help you, email me at matei@akudemy.tech
 
@@ -117,6 +120,4 @@ If you're a company looking for hires, you can set up a referral program similar
 
 I am not part of the TopTal team, my association with TopTal stops at being part of their talent network.
 
-No person or entity has paid me/Akudemy to promote them over others, outside of the incentives of the referral bonuses. I do think TopTal is a fantastic consultancy, and I would recommend it even if there was no referral bonus, but their existence make Akudemy sustainable.
-
-My CEH certification has expired and is no longer current.
+No person or entity has paid me/Akudemy to promote them over others, outside of the incentives of the referral bonuses.
