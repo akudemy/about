@@ -106,6 +106,37 @@ I gave talks at JSOxford meetups, and started JSBratislava, mentoring several de
 
 If you have any questions about whether I can help you, email me at matei@akudemy.tech
 
+## Why TopTal? Do I have a choice?
+You do have a choice!
+
+I simply strongly recommend TopTal, and here's why:
+1. I've been with them for 2 years, and from a contractor perspective, they are fantastic.
+1. It's easy to find 40-50 usd/hr jobs through it. With a little effort, you can double that in a year.
+1. You can pick exactly how many hours a week you'd like to work for, and it doesn't have to be a fixed amount.
+1. You pick your own clients, out of a list of hundreds. You get to support the products you care about.
+1. You join a slack community of over 10k other toptalers, chatting about any technology, allowing you to stay sharp.
+1. It's remote work. The teams I've worked with so far have created strong bonds, it's not monkey work.
+1. Switching clients is very easy. You can do it at a moment's notice, and TopTal handles all the paperwork for you.
+1. Having gone through their interview process, I know what you should expect, and how to prepare you for it.
+1. TopTal itself has an optional free academy program for toptalers, to help them stay current, and learn new skills.
+1. You can work outside of TopTal while being a toptaler, you are not obligated to do anything. The membership doesn't expire.
+1. You get 2500 usd just for starting your first engagement, which can immediately pay for the effort you put into getting in.
+
+We can prepare you for any other target you might have your eyes on. I devise most of the learning paths around TopTal, so those will be the most efficient ones.
+
+## What makes me eligible for a TopTal referral?
+It would help me a lot if you were eligible. Otherwise, I will ask you for a donation at the point in which I'd normally get the bonus.
+
+To be eligible, it must be your first time applying to TopTal, and you must not have made an account more than 6 months prior. You can retry the application every 6 months, but only the first one will make you eligible. I will ask you to make sure you didn't accidentally make a TopTal account years prior, it happens more often than you might think.
+
+You must have skills in JavaScript or Python. The list is longer, and it changes every 2 months, but as long as you have JavaScript or Python under your belt, you're good. If you don't, contact me, and I can let you know if your technology of choice has made it in the current list. Other common candidates are Ruby, Go, C++, and PHP. I will most be able to help you with JavaScript and Python.
+
+That's it! If it's your first time applying, and you're a JS/Python dev, you're good!
+
+Remember that even if you're not eligible for that referral, with TopTal you can get the money for the donation really quickly.
+
+If you have any questions about your specific circumstance, contact me.
+
 ## How can I help?
 
 Thank you for asking!
