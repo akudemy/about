@@ -109,8 +109,7 @@ If you have any questions about whether I can help you, email me at matei@akudem
 ## Why TopTal? Do I have a choice?
 You do have a choice!
 
-I simply strongly recommend TopTal, and here's why:
-1. I've been with them for 2 years, and from a contractor perspective, they are fantastic.
+I simply strongly recommend TopTal. I've been with them for 2 years, and from a contractor perspective, they are fantastic, and here's why:
 1. It's easy to find 40-50 usd/hr jobs through it. With a little effort, you can double that in a year.
 1. You can pick exactly how many hours a week you'd like to work for, and it doesn't have to be a fixed amount.
 1. You pick your own clients, out of a list of hundreds. You get to support the products you care about.
