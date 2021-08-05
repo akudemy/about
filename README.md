@@ -145,7 +145,7 @@ We can prepare you for any other target you might have your eyes on. I devise mo
 
 Thank you for asking!
 
-The most helpful thing you can do is to refer people to this service. Link them to this page, or send me an email telling me you know someone who is interested.
+The most helpful thing you can do is to refer people to this academy. Link them to this page, or send me an email telling me you know someone who is interested.
 
 If you're interested in being an Akudemy coach, let me know. For the moment, I can handle the current volume of students, but do get in touch, so I can contact you when the need might arise.
 
