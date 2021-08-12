@@ -1,3 +1,6 @@
+
+<img align="left" height="60px" src="https://user-images.githubusercontent.com/6382186/129148934-ed3e288c-2324-4b53-a519-0f4c18d6876c.png" />
+
 # Akudemy
 
 We take programmers who want to join a company, and help them take care of the tech aspect of the interviews.
