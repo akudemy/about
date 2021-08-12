@@ -118,7 +118,7 @@ If you are applying to TopTal and are eligible for the referral bonus, you and I
 If you're not eligible for referral bonuses, I would ask you to donate a matching 2500 usd, but only after you get in that company, and we can wait a little for you to get your first paycheck, which should easily cover the donation.
 
 To be eligible for a TopTal referral, you must
-- not have made a TopTal developer account more than 6 months ago.
+- not have made a TopTal developer account more than a month ago.
 - not have named anyone else as your referrer.
 - not have already attempted the toptal exams.
 - have JavaScript or Python as a main skill.
@@ -126,6 +126,8 @@ To be eligible for a TopTal referral, you must
 Technologies like Ruby/Go/C++ are also valid, but they occasionally change. Do ask, if JS and Python aren't in your toolhouse.
 
 If you don't have a TopTal account, great, you can make one towards the end of the programme. It's easy, and I can guide you through it.
+
+If you're otherwise unsure about your case, send me an email at matei@akudemy.tech, and we'll sort it out.
 
 ## Why TopTal? Do I have a choice?
 You do have a choice!
