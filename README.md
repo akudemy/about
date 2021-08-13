@@ -98,7 +98,7 @@ David
 
 ## Instruction at Akudemy
 
-My name is Matei Copot, and while the Akudemy is a community of people who help each other out, I'll be your main instructor.
+My name is Matei Copot, and while Akudemy is a community of people who help each other out, I'll be your main instructor.
 
 I'm currently part of the TopTal network, you can find my resume here: https://www.toptal.com/resume/matei-copot. I'm not looking for new positions.
 
